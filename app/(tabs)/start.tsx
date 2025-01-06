@@ -1,7 +1,7 @@
-// app/index.tsx
+// app/start.tsx
 import React from 'react';
 import StartScreen from '../StartScreen';
 
-export default function IndexRoute() {
+export default function StartRoute() {
   return <StartScreen />;
-};
+}
